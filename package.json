@@ -1,0 +1,23 @@
+{
+  "name": "task2-playwright-redmine",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test --headed",
+    "test:headless": "playwright test",
+    "report:view": "npx monocart show-report monocart-report/index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.49.0",
+    "@types/node": "^22.9.0",
+    "monocart-reporter": "^2.9.12"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "uuid": "^11.0.3"
+  }
+}
