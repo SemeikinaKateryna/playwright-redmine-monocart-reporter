@@ -1,140 +1,203 @@
 {
     "name": "My Test Report",
     "logo": null,
-    "date": 1736166649681,
-    "dateH": "1/6/2025, 1:30:49 PM",
-    "duration": 12099,
-    "durationH": "12.1s",
-    "cwd": "D:/TestSquadProjects/playwright-redmine-monocart-reporter-2",
-    "outputFile": "D:\\TestSquadProjects\\playwright-redmine-monocart-reporter-2\\monocart-report\\index.html",
-    "outputDir": "D:\\TestSquadProjects\\playwright-redmine-monocart-reporter-2\\monocart-report",
+    "date": 1736166906659,
+    "dateH": "1/6/2025, 12:35:06 PM",
+    "duration": 24547,
+    "durationH": "24.5s",
+    "cwd": "/home/runner/work/playwright-redmine-monocart-reporter/playwright-redmine-monocart-reporter",
+    "outputFile": "/home/runner/work/playwright-redmine-monocart-reporter/playwright-redmine-monocart-reporter/monocart-report/index.html",
+    "outputDir": "/home/runner/work/playwright-redmine-monocart-reporter/playwright-redmine-monocart-reporter/monocart-report",
     "metadata": {
-        "actualWorkers": 5
+        "actualWorkers": 1
     },
     "system": {
         "cpu": {
             "color": "#117DBB",
-            "count": 8,
-            "model": "Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz",
-            "speed": 2304
+            "count": 4,
+            "model": "AMD EPYC 7763 64-Core Processor",
+            "speed": 0
         },
         "mem": {
             "color": "#8B12AE",
-            "total": 16955166720
+            "total": 16766779392
         },
         "arch": "x64",
-        "platform": "win32",
-        "release": "10.0.19045",
-        "type": "Windows_NT",
-        "version": "Windows 10 Pro",
-        "uptime": 1645599.031,
-        "hostname": "DESKTOP-GF3BM3U",
-        "pid": 23720,
-        "node": "20.14.0",
+        "platform": "linux",
+        "release": "6.8.0-1017-azure",
+        "type": "Linux",
+        "version": "#20-Ubuntu SMP Tue Oct 22 03:43:13 UTC 2024",
+        "uptime": 87.8,
+        "hostname": "fv-az1046-605",
+        "pid": 2847,
+        "node": "20.18.1",
         "v8": "11.3.244.8-node.23",
-        "timestampStart": 1736166649681,
+        "timestampStart": 1736166906659,
         "ticks": [
             {
                 "cpu": {
-                    "percent": 76.03
+                    "percent": 2.99
                 },
                 "mem": {
-                    "free": 7873421312
+                    "free": 15481421824
                 },
-                "timestamp": 1736166651690
+                "timestamp": 1736166908664
             },
             {
                 "cpu": {
-                    "percent": 6.9
+                    "percent": 51.72
                 },
                 "mem": {
-                    "free": 7823028224
+                    "free": 15375687680
                 },
-                "timestamp": 1736166653711
+                "timestamp": 1736166910665
             },
             {
                 "cpu": {
-                    "percent": 43.37
+                    "percent": 24.03
                 },
                 "mem": {
-                    "free": 7542321152
+                    "free": 15414284288
                 },
-                "timestamp": 1736166655727
+                "timestamp": 1736166912668
             },
             {
                 "cpu": {
-                    "percent": 89.87
+                    "percent": 18.3
                 },
                 "mem": {
-                    "free": 7225999360
+                    "free": 15409090560
                 },
-                "timestamp": 1736166657750
+                "timestamp": 1736166914670
             },
             {
                 "cpu": {
-                    "percent": 53.66
+                    "percent": 11.53
                 },
                 "mem": {
-                    "free": 8040566784
+                    "free": 15404703744
                 },
-                "timestamp": 1736166659757
+                "timestamp": 1736166916672
             },
             {
                 "cpu": {
-                    "percent": 34.79
+                    "percent": 6.52
                 },
                 "mem": {
-                    "free": 8336023552
+                    "free": 15437430784
                 },
-                "timestamp": 1736166661775
+                "timestamp": 1736166918675
+            },
+            {
+                "cpu": {
+                    "percent": 10.61
+                },
+                "mem": {
+                    "free": 15437586432
+                },
+                "timestamp": 1736166920677
+            },
+            {
+                "cpu": {
+                    "percent": 13.28
+                },
+                "mem": {
+                    "free": 15390806016
+                },
+                "timestamp": 1736166922678
+            },
+            {
+                "cpu": {
+                    "percent": 10.35
+                },
+                "mem": {
+                    "free": 15458385920
+                },
+                "timestamp": 1736166924682
+            },
+            {
+                "cpu": {
+                    "percent": 37.11
+                },
+                "mem": {
+                    "free": 15397576704
+                },
+                "timestamp": 1736166926684
+            },
+            {
+                "cpu": {
+                    "percent": 8.61
+                },
+                "mem": {
+                    "free": 15421497344
+                },
+                "timestamp": 1736166928687
+            },
+            {
+                "cpu": {
+                    "percent": 11.22
+                },
+                "mem": {
+                    "free": 15555280896
+                },
+                "timestamp": 1736166930689
+            },
+            {
+                "cpu": {
+                    "percent": 0.25
+                },
+                "mem": {
+                    "free": 15557459968
+                },
+                "timestamp": 1736166931201
             }
         ],
-        "workers": 5,
+        "workers": 1,
         "jobs": [
             {
                 "caseId": "96c587cd75c4b45a2e62",
                 "parallelIndex": 0,
                 "workerIndex": 0,
-                "timestamp": 1736166650810,
-                "duration": 7915
+                "timestamp": 1736166907347,
+                "duration": 5167
             },
             {
                 "caseId": "c9d444efcc80c6e36617",
-                "parallelIndex": 1,
-                "workerIndex": 1,
-                "timestamp": 1736166650827,
-                "duration": 9510
+                "parallelIndex": 0,
+                "workerIndex": 0,
+                "timestamp": 1736166912516,
+                "duration": 6009
             },
             {
                 "caseId": "a48e96259ad6335bb8b7",
-                "parallelIndex": 2,
-                "workerIndex": 2,
-                "timestamp": 1736166650843,
-                "duration": 7162
+                "parallelIndex": 0,
+                "workerIndex": 0,
+                "timestamp": 1736166918527,
+                "duration": 4196
             },
             {
                 "caseId": "aa65b7b9c5c552f42f3c",
-                "parallelIndex": 3,
-                "workerIndex": 3,
-                "timestamp": 1736166650907,
-                "duration": 7560
+                "parallelIndex": 0,
+                "workerIndex": 0,
+                "timestamp": 1736166922725,
+                "duration": 4051
             },
             {
                 "caseId": "b1800964eeeff8a7a9b6",
-                "parallelIndex": 4,
-                "workerIndex": 4,
-                "timestamp": 1736166650858,
-                "duration": 7159
+                "parallelIndex": 0,
+                "workerIndex": 0,
+                "timestamp": 1736166926777,
+                "duration": 3363
             }
         ],
-        "cwd": "D:/TestSquadProjects/playwright-redmine-monocart-reporter-2",
+        "cwd": "/home/runner/work/playwright-redmine-monocart-reporter/playwright-redmine-monocart-reporter",
         "configFile": "playwright.config.js",
         "playwright": "1.49.1",
         "monocart": "2.9.12",
         "testDir": "tests",
         "outputFile": "monocart-report/index.html",
         "outputDir": "monocart-report",
-        "timestampEnd": 1736166661780
+        "timestampEnd": 1736166931206
     },
     "artifacts": [],
     "trends": [],
@@ -269,10 +332,10 @@
                             "expectedStatus": "passed",
                             "location": "tests/redmine_testing.spec.js:19:5",
                             "timestamps": [
-                                1736166650810,
-                                1736166658725
+                                1736166907347,
+                                1736166912514
                             ],
-                            "duration": 7915,
+                            "duration": 5167,
                             "tags": [],
                             "timeout": 30000,
                             "retry": 0,
@@ -282,85 +345,85 @@
                             "stepSubs": true,
                             "subs": [
                                 {
-                                    "id": "e1n0dyjonis8sfxxvpeq",
+                                    "id": "6tzjsjr6n4wyyu10m5nb",
                                     "title": "Before Hooks",
                                     "type": "step",
                                     "stepType": "hook",
-                                    "duration": 5037,
+                                    "duration": 2714,
                                     "location": "",
                                     "subs": [
                                         {
-                                            "id": "d0zg6hqdfoe91ne9pacm",
+                                            "id": "evrvpillh8gge9ouwykg",
                                             "title": "beforeEach hook",
                                             "type": "step",
                                             "stepType": "hook",
-                                            "duration": 5034,
+                                            "duration": 2712,
                                             "location": "tests/redmine_testing.spec.js:13:6",
                                             "subs": [
                                                 {
-                                                    "id": "8ae8oo62k54upztqxjo3",
+                                                    "id": "zb8rr6h46ns8btn4q3jy",
                                                     "title": "fixture: browser",
                                                     "type": "step",
                                                     "stepType": "fixture",
-                                                    "duration": 160,
+                                                    "duration": 76,
                                                     "location": "",
                                                     "subs": [
                                                         {
-                                                            "id": "7zfq0z2kx5ebqxmehal6",
+                                                            "id": "t58ghccbicj8r0lq7c05",
                                                             "title": "browserType.launch",
                                                             "type": "step",
                                                             "stepType": "pw:api",
-                                                            "duration": 152,
+                                                            "duration": 74,
                                                             "location": ""
                                                         }
                                                     ]
                                                 },
                                                 {
-                                                    "id": "vmcicda6f9w3f6co5dlk",
+                                                    "id": "cwg5jkcnvsahiatv17c9",
                                                     "title": "fixture: context",
                                                     "type": "step",
                                                     "stepType": "fixture",
-                                                    "duration": 16,
+                                                    "duration": 12,
                                                     "location": "",
                                                     "subs": [
                                                         {
-                                                            "id": "7vkix2sqjzob6ehs6bjz",
+                                                            "id": "pquqwcvkevkjo179uds9",
                                                             "title": "browser.newContext",
                                                             "type": "step",
                                                             "stepType": "pw:api",
-                                                            "duration": 10,
+                                                            "duration": 6,
                                                             "location": ""
                                                         }
                                                     ]
                                                 },
                                                 {
-                                                    "id": "l3ohzr1ledq52dzsufvc",
+                                                    "id": "8khiqejvjxzihtc8co3c",
                                                     "title": "fixture: page",
                                                     "type": "step",
                                                     "stepType": "fixture",
-                                                    "duration": 722,
+                                                    "duration": 32,
                                                     "location": "",
                                                     "subs": [
                                                         {
-                                                            "id": "53s5olaat6cr7mft4zwh",
+                                                            "id": "tforukilj9amvn635k23",
                                                             "title": "browserContext.newPage",
                                                             "type": "step",
                                                             "stepType": "pw:api",
-                                                            "duration": 719,
+                                                            "duration": 30,
                                                             "location": ""
                                                         }
                                                     ]
                                                 },
                                                 {
-                                                    "id": "n481nwdo23j5gxbed5aj",
+                                                    "id": "zhrfxgtxyggcrinqz8na",
                                                     "title": "page.goto(/)",
                                                     "type": "step",
                                                     "stepType": "pw:api",
-                                                    "duration": 3954,
+                                                    "duration": 2503,
                                                     "location": "tests/redmine_testing.spec.js:14:16"
                                                 },
                                                 {
-                                                    "id": "9q1u9roewtv0wuo49qex",
+                                                    "id": "roor40gf332j7siotgqi",
                                                     "title": "page.waitForLoadState",
                                                     "type": "step",
                                                     "stepType": "pw:api",
@@ -368,11 +431,11 @@
                                                     "location": "tests/redmine_testing.spec.js:15:16"
                                                 },
                                                 {
-                                                    "id": "w5sc2nl46lw07y7fymqn",
+                                                    "id": "1b6ixcgaainczrk5yjz5",
                                                     "title": "expect.toHaveTitle",
                                                     "type": "step",
                                                     "stepType": "expect",
-                                                    "duration": 143,
+                                                    "duration": 66,
                                                     "location": "tests/redmine_testing.spec.js:16:24"
                                                 }
                                             ]
@@ -380,235 +443,235 @@
                                     ]
                                 },
                                 {
-                                    "id": "7qb9izfgfyu9r6g18m5u",
+                                    "id": "bqc9h4vuoh68gp2m699w",
                                     "title": "expect.toBeVisible",
                                     "type": "step",
                                     "stepType": "expect",
-                                    "duration": 36,
+                                    "duration": 13,
                                     "location": "page-objects/Main.page.js:14:52"
                                 },
                                 {
-                                    "id": "rlr3qh7be7ibse8px1z4",
+                                    "id": "6g7qihbsn6vgkiex9os6",
                                     "title": "locator.getByRole('link', { name: 'Register' }).click",
                                     "type": "step",
                                     "stepType": "pw:api",
-                                    "duration": 228,
+                                    "duration": 262,
                                     "location": "page-objects/Main.page.js:18:44"
                                 },
                                 {
-                                    "id": "c3vw0xcd06lzyi1zymy2",
+                                    "id": "vsyexehk8r71tb9ps49g",
                                     "title": "expect.toHaveURL",
                                     "type": "step",
                                     "stepType": "expect",
-                                    "duration": 120,
+                                    "duration": 59,
                                     "location": "tests/redmine_testing.spec.js:24:24"
                                 },
                                 {
-                                    "id": "vqs3pa4oxw78t6jimf70",
+                                    "id": "mm6cem1wqo4bgoit09od",
                                     "title": "expect.toBeVisible",
                                     "type": "step",
                                     "stepType": "expect",
-                                    "duration": 76,
+                                    "duration": 34,
                                     "location": "tests/redmine_testing.spec.js:27:47"
                                 },
                                 {
-                                    "id": "1zko9wc7drw7zpnq5arc",
+                                    "id": "lt6tdy5et7ck2xpt9u2u",
                                     "title": "expect.toHaveText",
                                     "type": "step",
                                     "stepType": "expect",
-                                    "duration": 15,
+                                    "duration": 6,
                                     "location": "tests/redmine_testing.spec.js:28:47"
                                 },
                                 {
-                                    "id": "5jc5y489ixm0msm2hevb",
+                                    "id": "68koi7q4vrqgoe54qmd8",
                                     "title": "locator.getByLabel('Login *').fill",
                                     "type": "step",
                                     "stepType": "pw:api",
-                                    "duration": 48,
+                                    "duration": 9,
                                     "location": "page-objects/Register.page.js:17:31"
                                 },
                                 {
-                                    "id": "7grrokjjztsgc2v23rm2",
+                                    "id": "5h3x97dzjkrxwdx6a266",
                                     "title": "locator.getByLabel('Password *').fill",
                                     "type": "step",
                                     "stepType": "pw:api",
-                                    "duration": 20,
+                                    "duration": 9,
                                     "location": "page-objects/Register.page.js:18:34"
                                 },
                                 {
-                                    "id": "8ysbuyrywyj3tgnknlaq",
+                                    "id": "afa1rvwshyo416uiyajh",
                                     "title": "locator.getByLabel('Confirmation *').fill",
                                     "type": "step",
                                     "stepType": "pw:api",
-                                    "duration": 33,
+                                    "duration": 6,
                                     "location": "page-objects/Register.page.js:19:46"
                                 },
                                 {
-                                    "id": "ilz8zso5cfkoe3gk5b7k",
+                                    "id": "x3ldt75hg8ok5g4qqehh",
                                     "title": "locator.getByLabel('First name *').fill",
                                     "type": "step",
                                     "stepType": "pw:api",
-                                    "duration": 27,
+                                    "duration": 6,
                                     "location": "page-objects/Register.page.js:20:35"
                                 },
                                 {
-                                    "id": "dly8je103y19nz5oojv5",
+                                    "id": "mxi3ydhfw2i4vh7rdhhr",
                                     "title": "locator.getByLabel('Last name *').fill",
                                     "type": "step",
                                     "stepType": "pw:api",
-                                    "duration": 33,
+                                    "duration": 6,
                                     "location": "page-objects/Register.page.js:21:34"
                                 },
                                 {
-                                    "id": "gedpl2677c3jucg2w93q",
+                                    "id": "a639pr9og9vevnssxt0g",
                                     "title": "locator.getByLabel('Email *').fill",
                                     "type": "step",
                                     "stepType": "pw:api",
-                                    "duration": 26,
+                                    "duration": 6,
                                     "location": "page-objects/Register.page.js:22:31"
                                 },
                                 {
-                                    "id": "6a1yh5ubptq4qtz5i20z",
+                                    "id": "27dulhuqtqmopi1z2p6i",
                                     "title": "expect.toHaveValue",
                                     "type": "step",
                                     "stepType": "expect",
-                                    "duration": 8,
+                                    "duration": 3,
                                     "location": "tests/redmine_testing.spec.js:31:43"
                                 },
                                 {
-                                    "id": "jbk0qx14udexkphfe949",
+                                    "id": "66zb5fsmtv10bfau598g",
                                     "title": "expect.toHaveValue",
                                     "type": "step",
                                     "stepType": "expect",
-                                    "duration": 6,
+                                    "duration": 3,
                                     "location": "tests/redmine_testing.spec.js:32:46"
                                 },
                                 {
-                                    "id": "zbvkb904bz36twdmgfqo",
-                                    "title": "expect.toHaveValue",
-                                    "type": "step",
-                                    "stepType": "expect",
-                                    "duration": 9,
-                                    "location": "tests/redmine_testing.spec.js:33:58"
-                                },
-                                {
-                                    "id": "37d6d0m1pxsfiiuwa3oy",
-                                    "title": "expect.toHaveValue",
-                                    "type": "step",
-                                    "stepType": "expect",
-                                    "duration": 11,
-                                    "location": "tests/redmine_testing.spec.js:34:47"
-                                },
-                                {
-                                    "id": "ep24hzc4j75pd9ib9nkw",
-                                    "title": "expect.toHaveValue",
-                                    "type": "step",
-                                    "stepType": "expect",
-                                    "duration": 30,
-                                    "location": "tests/redmine_testing.spec.js:35:46"
-                                },
-                                {
-                                    "id": "0r0ik2ltczoh5ypdyytl",
-                                    "title": "expect.toHaveValue",
-                                    "type": "step",
-                                    "stepType": "expect",
-                                    "duration": 14,
-                                    "location": "tests/redmine_testing.spec.js:36:43"
-                                },
-                                {
-                                    "id": "9sqcpy074y93x8fs4ifq",
-                                    "title": "locator.getByLabel('Language').selectOption",
-                                    "type": "step",
-                                    "stepType": "pw:api",
-                                    "duration": 40,
-                                    "location": "page-objects/Register.page.js:26:37"
-                                },
-                                {
-                                    "id": "2ud12kk7cdkofs5u3r80",
+                                    "id": "2sh2o8pk6dpl8gizzugx",
                                     "title": "expect.toHaveValue",
                                     "type": "step",
                                     "stepType": "expect",
                                     "duration": 7,
+                                    "location": "tests/redmine_testing.spec.js:33:58"
+                                },
+                                {
+                                    "id": "2rrsusw2coy1kt8d1a6p",
+                                    "title": "expect.toHaveValue",
+                                    "type": "step",
+                                    "stepType": "expect",
+                                    "duration": 3,
+                                    "location": "tests/redmine_testing.spec.js:34:47"
+                                },
+                                {
+                                    "id": "50uhjiw363sz1gygo43w",
+                                    "title": "expect.toHaveValue",
+                                    "type": "step",
+                                    "stepType": "expect",
+                                    "duration": 3,
+                                    "location": "tests/redmine_testing.spec.js:35:46"
+                                },
+                                {
+                                    "id": "ltxy2anpog6wy5thn38u",
+                                    "title": "expect.toHaveValue",
+                                    "type": "step",
+                                    "stepType": "expect",
+                                    "duration": 3,
+                                    "location": "tests/redmine_testing.spec.js:36:43"
+                                },
+                                {
+                                    "id": "tsii8nyqr7520pcqor4c",
+                                    "title": "locator.getByLabel('Language').selectOption",
+                                    "type": "step",
+                                    "stepType": "pw:api",
+                                    "duration": 4,
+                                    "location": "page-objects/Register.page.js:26:37"
+                                },
+                                {
+                                    "id": "7yt51d3c3cbcn8upn43n",
+                                    "title": "expect.toHaveValue",
+                                    "type": "step",
+                                    "stepType": "expect",
+                                    "duration": 3,
                                     "location": "tests/redmine_testing.spec.js:39:49"
                                 },
                                 {
-                                    "id": "rppc74tsyzeaet2dltnh",
+                                    "id": "arrsxyduwgr6lwhiob0i",
                                     "title": "locator.getByLabel('Hide my email address').setChecked",
                                     "type": "step",
                                     "stepType": "pw:api",
-                                    "duration": 364,
+                                    "duration": 25,
                                     "location": "page-objects/Register.page.js:30:47"
                                 },
                                 {
-                                    "id": "fsnr688g5qfjkwyv4jl2",
+                                    "id": "0x7ifgm64dnadygqncy7",
                                     "title": "locator.getByLabel('Hide my email address').isChecked",
                                     "type": "step",
                                     "stepType": "pw:api",
-                                    "duration": 11,
+                                    "duration": 2,
                                     "location": "tests/redmine_testing.spec.js:42:58"
                                 },
                                 {
-                                    "id": "tfj94a745ccp7lrxqbqg",
+                                    "id": "xykrz4qp5ibfdmwybip9",
                                     "title": "expect.toBe",
                                     "type": "step",
                                     "stepType": "expect",
-                                    "duration": 1,
+                                    "duration": 0,
                                     "location": "tests/redmine_testing.spec.js:42:71"
                                 },
                                 {
-                                    "id": "sa602u6nbb46tv1n1yfk",
+                                    "id": "u6afozx89xi9aobjcz6u",
                                     "title": "locator.getByRole('button', { name: 'Submit' }).click",
                                     "type": "step",
                                     "stepType": "pw:api",
-                                    "duration": 1544,
+                                    "duration": 1868,
                                     "location": "page-objects/Register.page.js:34:42"
                                 },
                                 {
-                                    "id": "4v10jtxhsg1x2dcpf840",
+                                    "id": "3ksjkkw5nq1346rkxj3g",
                                     "title": "expect.toHaveURL",
                                     "type": "step",
                                     "stepType": "expect",
-                                    "duration": 63,
+                                    "duration": 43,
                                     "location": "tests/redmine_testing.spec.js:47:24"
                                 },
                                 {
-                                    "id": "xe3ouxhnz62ewez3635z",
+                                    "id": "mkqteuzpavclkklv0oqc",
                                     "title": "expect.toBeVisible",
                                     "type": "step",
                                     "stepType": "expect",
-                                    "duration": 6,
+                                    "duration": 12,
                                     "location": "tests/redmine_testing.spec.js:49:49"
                                 },
                                 {
-                                    "id": "611dg22f8yb39impkqlr",
+                                    "id": "3l7rq8jml4i2cwqy8gce",
                                     "title": "expect.toHaveText",
                                     "type": "step",
                                     "stepType": "expect",
-                                    "duration": 4,
+                                    "duration": 6,
                                     "location": "tests/redmine_testing.spec.js:51:49"
                                 },
                                 {
-                                    "id": "wqitsixdmag94fqpgpyq",
+                                    "id": "95ud0145b3pyz2i5p13q",
                                     "title": "After Hooks",
                                     "type": "step",
                                     "stepType": "hook",
-                                    "duration": 16,
+                                    "duration": 15,
                                     "location": "",
                                     "subs": [
                                         {
-                                            "id": "3zdtw4gk4f5ilqkpcznp",
+                                            "id": "50cevgget1w3zri3damu",
                                             "title": "fixture: page",
                                             "type": "step",
                                             "stepType": "fixture",
-                                            "duration": 1,
+                                            "duration": 0,
                                             "location": ""
                                         },
                                         {
-                                            "id": "jzkck6hm2403351enkwb",
+                                            "id": "vtnlspx1z7ms3fl9ybbr",
                                             "title": "fixture: context",
                                             "type": "step",
                                             "stepType": "fixture",
-                                            "duration": 1,
+                                            "duration": 0,
                                             "location": ""
                                         }
                                     ]
@@ -625,110 +688,92 @@
                             "expectedStatus": "passed",
                             "location": "tests/redmine_testing.spec.js:54:5",
                             "timestamps": [
-                                1736166650827,
-                                1736166660337
+                                1736166912516,
+                                1736166918525
                             ],
-                            "duration": 9510,
+                            "duration": 6009,
                             "tags": [],
                             "timeout": 30000,
                             "retry": 0,
                             "status": "passed",
-                            "stepNum": 29,
+                            "stepNum": 27,
                             "stepFailed": 0,
                             "stepSubs": true,
                             "subs": [
                                 {
-                                    "id": "6tbn4uyulse60ljgknpp",
+                                    "id": "nsyvjrm5dcnv277on0ut",
                                     "title": "Before Hooks",
                                     "type": "step",
                                     "stepType": "hook",
-                                    "duration": 5597,
+                                    "duration": 2735,
                                     "location": "",
                                     "subs": [
                                         {
-                                            "id": "no7urt3cxi1xqtz5ogch",
+                                            "id": "ui7969tsbbq98pb3lgg8",
                                             "title": "beforeEach hook",
                                             "type": "step",
                                             "stepType": "hook",
-                                            "duration": 5594,
+                                            "duration": 2734,
                                             "location": "tests/redmine_testing.spec.js:13:6",
                                             "subs": [
                                                 {
-                                                    "id": "ryuh9rpph9yvhw91dyl1",
-                                                    "title": "fixture: browser",
-                                                    "type": "step",
-                                                    "stepType": "fixture",
-                                                    "duration": 110,
-                                                    "location": "",
-                                                    "subs": [
-                                                        {
-                                                            "id": "bqw9psm0nvjoqidg5o3k",
-                                                            "title": "browserType.launch",
-                                                            "type": "step",
-                                                            "stepType": "pw:api",
-                                                            "duration": 103,
-                                                            "location": ""
-                                                        }
-                                                    ]
-                                                },
-                                                {
-                                                    "id": "7p4qpyomgie9n0gm383c",
+                                                    "id": "q1o9yc6l9m66ryijwvgz",
                                                     "title": "fixture: context",
                                                     "type": "step",
                                                     "stepType": "fixture",
-                                                    "duration": 18,
+                                                    "duration": 5,
                                                     "location": "",
                                                     "subs": [
                                                         {
-                                                            "id": "09f9bs0cwlofnpn8lezj",
+                                                            "id": "rx4ieb9mtvbuu4844yr2",
                                                             "title": "browser.newContext",
                                                             "type": "step",
                                                             "stepType": "pw:api",
-                                                            "duration": 11,
+                                                            "duration": 3,
                                                             "location": ""
                                                         }
                                                     ]
                                                 },
                                                 {
-                                                    "id": "2m23z8g8nj4lxcrtj3g6",
+                                                    "id": "1rcrsgi8jjkweav12bw0",
                                                     "title": "fixture: page",
                                                     "type": "step",
                                                     "stepType": "fixture",
-                                                    "duration": 759,
+                                                    "duration": 22,
                                                     "location": "",
                                                     "subs": [
                                                         {
-                                                            "id": "d2wmqwthzkatcynxmwoy",
+                                                            "id": "ueyq03uijv2r68fqqmaa",
                                                             "title": "browserContext.newPage",
                                                             "type": "step",
                                                             "stepType": "pw:api",
-                                                            "duration": 754,
+                                                            "duration": 21,
                                                             "location": ""
                                                         }
                                                     ]
                                                 },
                                                 {
-                                                    "id": "umn5bh1723swyrx6jxou",
+                                                    "id": "3tdag1809rpvwvqs1j1u",
                                                     "title": "page.goto(/)",
                                                     "type": "step",
                                                     "stepType": "pw:api",
-                                                    "duration": 4551,
+                                                    "duration": 2620,
                                                     "location": "tests/redmine_testing.spec.js:14:16"
                                                 },
                                                 {
-                                                    "id": "ifhp5ilhb7i86izzjdmt",
+                                                    "id": "c1xjdxghbydl6aovxyvx",
                                                     "title": "page.waitForLoadState",
                                                     "type": "step",
                                                     "stepType": "pw:api",
-                                                    "duration": 2,
+                                                    "duration": 1,
                                                     "location": "tests/redmine_testing.spec.js:15:16"
                                                 },
                                                 {
-                                                    "id": "wlf9wq1ti7i0mg85uaes",
+                                                    "id": "v9jxnh0o8a7mx3qs9n45",
                                                     "title": "expect.toHaveTitle",
                                                     "type": "step",
                                                     "stepType": "expect",
-                                                    "duration": 120,
+                                                    "duration": 78,
                                                     "location": "tests/redmine_testing.spec.js:16:24"
                                                 }
                                             ]
@@ -736,95 +781,95 @@
                                     ]
                                 },
                                 {
-                                    "id": "smj1usq00zs7vafw9w13",
+                                    "id": "4tze4wfuvv0j0iuqtgns",
                                     "title": "expect.toBeVisible",
                                     "type": "step",
                                     "stepType": "expect",
-                                    "duration": 32,
+                                    "duration": 10,
                                     "location": "page-objects/Main.page.js:14:52"
                                 },
                                 {
-                                    "id": "di3vvt2bfaq25gyhcvq0",
+                                    "id": "0rxm4vtculivm9ca4l1n",
                                     "title": "locator.getByRole('link', { name: 'Sign in' }).click",
                                     "type": "step",
                                     "stepType": "pw:api",
-                                    "duration": 597,
+                                    "duration": 249,
                                     "location": "page-objects/Main.page.js:18:44"
                                 },
                                 {
-                                    "id": "lazweu8dpkpb1qh6suio",
+                                    "id": "bw173bra950v476ucq3e",
                                     "title": "expect.toHaveURL",
                                     "type": "step",
                                     "stepType": "expect",
-                                    "duration": 92,
+                                    "duration": 42,
                                     "location": "tests/redmine_testing.spec.js:59:24"
                                 },
                                 {
-                                    "id": "6xwhf88d6cxfqo7yr4g9",
+                                    "id": "kat7qv51m1f37g5jxllx",
                                     "title": "expect.toBeVisible",
                                     "type": "step",
                                     "stepType": "expect",
-                                    "duration": 8,
+                                    "duration": 18,
                                     "location": "page-objects/Login.page.js:15:39"
                                 },
                                 {
-                                    "id": "iah2vfagsf7o88t9dgrr",
+                                    "id": "orcuv8wtpwymxfaeiewc",
                                     "title": "expect.toBeVisible",
                                     "type": "step",
                                     "stepType": "expect",
-                                    "duration": 7,
+                                    "duration": 12,
                                     "location": "page-objects/Login.page.js:16:42"
                                 },
                                 {
-                                    "id": "55m14dte9iydqywsxmvk",
+                                    "id": "yj1ktvcn00a2d9g7uc2j",
                                     "title": "locator.getByLabel('Login').fill",
                                     "type": "step",
                                     "stepType": "pw:api",
-                                    "duration": 18,
+                                    "duration": 7,
                                     "location": "page-objects/Login.page.js:20:31"
                                 },
                                 {
-                                    "id": "t2ba9ncgm7ee6898cv53",
+                                    "id": "e6yw4p02utkb6nk7ekp6",
                                     "title": "locator.getByLabel('Password').fill",
                                     "type": "step",
                                     "stepType": "pw:api",
-                                    "duration": 51,
+                                    "duration": 6,
                                     "location": "page-objects/Login.page.js:21:34"
                                 },
                                 {
-                                    "id": "qo09c4c7632h0op8mx38",
+                                    "id": "wpp70yqdsjpvj8k3k34a",
                                     "title": "expect.toHaveValue",
                                     "type": "step",
                                     "stepType": "expect",
-                                    "duration": 6,
+                                    "duration": 2,
                                     "location": "tests/redmine_testing.spec.js:64:40"
                                 },
                                 {
-                                    "id": "gwpz2ombgfwyldzd0ldu",
+                                    "id": "hpqj727f8nsbdzg7i2pc",
                                     "title": "expect.toHaveValue",
                                     "type": "step",
                                     "stepType": "expect",
-                                    "duration": 9,
+                                    "duration": 1,
                                     "location": "tests/redmine_testing.spec.js:65:43"
                                 },
                                 {
-                                    "id": "2jq842ouaswwxidlp9xa",
+                                    "id": "l7wdich3fn19nqrarwze",
                                     "title": "locator.getByText('Stay logged in').setChecked",
                                     "type": "step",
                                     "stepType": "pw:api",
-                                    "duration": 224,
+                                    "duration": 32,
                                     "location": "page-objects/Login.page.js:25:41"
                                 },
                                 {
-                                    "id": "etinl9c5eh7yjsomcdrr",
+                                    "id": "51v93ueuw8jshqjdxglv",
                                     "title": "locator.getByText('Stay logged in').isChecked",
                                     "type": "step",
                                     "stepType": "pw:api",
-                                    "duration": 33,
+                                    "duration": 2,
                                     "location": "tests/redmine_testing.spec.js:68:49"
                                 },
                                 {
-                                    "id": "esgfyfuaqgaxrx96rtzt",
+                                    "id": "lgqagwjj5sbnabm3rmq3",
                                     "title": "expect.toBe",
                                     "type": "step",
                                     "stepType": "expect",
@@ -832,39 +877,39 @@
                                     "location": "tests/redmine_testing.spec.js:68:62"
                                 },
                                 {
-                                    "id": "s76p8zi9a6a1b1g5u0l2",
+                                    "id": "er7xhmtrahyj7chk6vzj",
                                     "title": "locator.getByRole('button', { name: 'Login' }).click",
                                     "type": "step",
                                     "stepType": "pw:api",
-                                    "duration": 2679,
+                                    "duration": 2590,
                                     "location": "page-objects/Login.page.js:29:35"
                                 },
                                 {
-                                    "id": "a7xr461i11os32665rdh",
+                                    "id": "2n8qv4vljfnoko9i8bvc",
                                     "title": "expect.toBeVisible",
                                     "type": "step",
                                     "stepType": "expect",
-                                    "duration": 60,
+                                    "duration": 28,
                                     "location": "tests/redmine_testing.spec.js:72:64"
                                 },
                                 {
-                                    "id": "ax0296vlz384rejcekek",
+                                    "id": "02f17er5by4hpaa7jyza",
                                     "title": "expect.toHaveText",
                                     "type": "step",
                                     "stepType": "expect",
-                                    "duration": 22,
+                                    "duration": 14,
                                     "location": "tests/redmine_testing.spec.js:73:64"
                                 },
                                 {
-                                    "id": "id6o8hvf834iww6eeq44",
+                                    "id": "k52glma4kzzom9wp02ca",
                                     "title": "After Hooks",
                                     "type": "step",
                                     "stepType": "hook",
-                                    "duration": 19,
+                                    "duration": 7,
                                     "location": "",
                                     "subs": [
                                         {
-                                            "id": "6wej1m10hrtwxaovkpeu",
+                                            "id": "wnumoxnjrqv8s0qx58am",
                                             "title": "fixture: page",
                                             "type": "step",
                                             "stepType": "fixture",
@@ -872,7 +917,7 @@
                                             "location": ""
                                         },
                                         {
-                                            "id": "wqfl4bxm9w7m2uvcd4c3",
+                                            "id": "zzk3kdwlesy6ubr6wjvf",
                                             "title": "fixture: context",
                                             "type": "step",
                                             "stepType": "fixture",
@@ -893,110 +938,92 @@
                             "expectedStatus": "passed",
                             "location": "tests/redmine_testing.spec.js:76:5",
                             "timestamps": [
-                                1736166650843,
-                                1736166658005
+                                1736166918527,
+                                1736166922723
                             ],
-                            "duration": 7162,
+                            "duration": 4196,
                             "tags": [],
                             "timeout": 30000,
                             "retry": 0,
                             "status": "passed",
-                            "stepNum": 26,
+                            "stepNum": 24,
                             "stepFailed": 0,
                             "stepSubs": true,
                             "subs": [
                                 {
-                                    "id": "cl4okdluliase3odoxk9",
+                                    "id": "45nq6mb536vz4akcf1cb",
                                     "title": "Before Hooks",
                                     "type": "step",
                                     "stepType": "hook",
-                                    "duration": 5568,
+                                    "duration": 2500,
                                     "location": "",
                                     "subs": [
                                         {
-                                            "id": "xulgwdlbgxbq1jjt8ztu",
+                                            "id": "qsz8n3upcspjf2ukmh46",
                                             "title": "beforeEach hook",
                                             "type": "step",
                                             "stepType": "hook",
-                                            "duration": 5566,
+                                            "duration": 2499,
                                             "location": "tests/redmine_testing.spec.js:13:6",
                                             "subs": [
                                                 {
-                                                    "id": "q10q58b72yequ2tzn29f",
-                                                    "title": "fixture: browser",
-                                                    "type": "step",
-                                                    "stepType": "fixture",
-                                                    "duration": 147,
-                                                    "location": "",
-                                                    "subs": [
-                                                        {
-                                                            "id": "5n2lvx90l2zwcujpflyd",
-                                                            "title": "browserType.launch",
-                                                            "type": "step",
-                                                            "stepType": "pw:api",
-                                                            "duration": 140,
-                                                            "location": ""
-                                                        }
-                                                    ]
-                                                },
-                                                {
-                                                    "id": "nn6oqr9hci2v1w4pylyz",
+                                                    "id": "ubefx6t4u56on4rwpxg0",
                                                     "title": "fixture: context",
                                                     "type": "step",
                                                     "stepType": "fixture",
-                                                    "duration": 20,
+                                                    "duration": 4,
                                                     "location": "",
                                                     "subs": [
                                                         {
-                                                            "id": "gn4rq8wv70tqcwnm6g7r",
+                                                            "id": "f2f9c3d32of16c565ebj",
                                                             "title": "browser.newContext",
                                                             "type": "step",
                                                             "stepType": "pw:api",
-                                                            "duration": 14,
+                                                            "duration": 3,
                                                             "location": ""
                                                         }
                                                     ]
                                                 },
                                                 {
-                                                    "id": "7rrj9kkm2ct7uxg0j3s7",
+                                                    "id": "k9jbd954halz8cz2bivl",
                                                     "title": "fixture: page",
                                                     "type": "step",
                                                     "stepType": "fixture",
-                                                    "duration": 692,
+                                                    "duration": 25,
                                                     "location": "",
                                                     "subs": [
                                                         {
-                                                            "id": "0qwx20lfkoub87rf6aon",
+                                                            "id": "s1t7preeul3msjen0w10",
                                                             "title": "browserContext.newPage",
                                                             "type": "step",
                                                             "stepType": "pw:api",
-                                                            "duration": 688,
+                                                            "duration": 23,
                                                             "location": ""
                                                         }
                                                     ]
                                                 },
                                                 {
-                                                    "id": "u22uzct35tn98lgyypfl",
+                                                    "id": "8vwp8hctgd06asjn4ti7",
                                                     "title": "page.goto(/)",
                                                     "type": "step",
                                                     "stepType": "pw:api",
-                                                    "duration": 4425,
+                                                    "duration": 2390,
                                                     "location": "tests/redmine_testing.spec.js:14:16"
                                                 },
                                                 {
-                                                    "id": "95jy8siy3geluemjfl8k",
+                                                    "id": "9hi96tw5vyzp946s1xjd",
                                                     "title": "page.waitForLoadState",
                                                     "type": "step",
                                                     "stepType": "pw:api",
-                                                    "duration": 2,
+                                                    "duration": 1,
                                                     "location": "tests/redmine_testing.spec.js:15:16"
                                                 },
                                                 {
-                                                    "id": "7x4dv72j4czlwlxo651v",
+                                                    "id": "tp7xoj7989naju7y039d",
                                                     "title": "expect.toHaveTitle",
                                                     "type": "step",
                                                     "stepType": "expect",
-                                                    "duration": 248,
+                                                    "duration": 71,
                                                     "location": "tests/redmine_testing.spec.js:16:24"
                                                 }
                                             ]
@@ -1004,15 +1031,15 @@
                                     ]
                                 },
                                 {
-                                    "id": "2cjhqz2dt85u1pj4ew5s",
+                                    "id": "m1r5ak0kco8h5u9z11ix",
                                     "title": "expect.toBeVisible",
                                     "type": "step",
                                     "stepType": "expect",
-                                    "duration": 24,
+                                    "duration": 9,
                                     "location": "page-objects/Main.page.js:14:52"
                                 },
                                 {
-                                    "id": "budkjo8m05hs96abn1gf",
+                                    "id": "8k96pnltzqbm4fh565aa",
                                     "title": "locator.getByRole('link', { name: 'Issues' }).click",
                                     "type": "step",
                                     "stepType": "pw:api",
@@ -1020,79 +1047,79 @@
                                     "location": "page-objects/Main.page.js:18:44"
                                 },
                                 {
-                                    "id": "9y58t12hshr8r3txsyjp",
+                                    "id": "f6byzewwc1nsd462nrb5",
                                     "title": "expect.toHaveURL",
                                     "type": "step",
                                     "stepType": "expect",
-                                    "duration": 224,
+                                    "duration": 18,
                                     "location": "tests/redmine_testing.spec.js:81:24"
                                 },
                                 {
-                                    "id": "gced0f4ne6leadwlsp6n",
+                                    "id": "xmcp16odeon7yd73vd87",
                                     "title": "expect.toBeVisible",
                                     "type": "step",
                                     "stepType": "expect",
-                                    "duration": 12,
+                                    "duration": 355,
                                     "location": "tests/redmine_testing.spec.js:84:37"
                                 },
                                 {
-                                    "id": "ovuw6i31u0oskia0l1fe",
+                                    "id": "xqw50xj6nz14rty1uf9s",
                                     "title": "expect.toHaveText",
                                     "type": "step",
                                     "stepType": "expect",
-                                    "duration": 8,
+                                    "duration": 2,
                                     "location": "tests/redmine_testing.spec.js:85:37"
                                 },
                                 {
-                                    "id": "spgveejk2j89yew28g8y",
+                                    "id": "3cxca3j78k422kii7ifm",
                                     "title": "locator.click(th.id > a)",
                                     "type": "step",
                                     "stepType": "pw:api",
-                                    "duration": 284,
+                                    "duration": 384,
                                     "location": "page-objects/Issues.page.js:12:27"
                                 },
                                 {
-                                    "id": "l2rhaph7i24qt7yfe7sp",
+                                    "id": "yqwo2yvhgxcwx1coou17",
                                     "title": "expect.toBeVisible",
                                     "type": "step",
                                     "stepType": "expect",
-                                    "duration": 179,
+                                    "duration": 52,
                                     "location": "tests/redmine_testing.spec.js:88:44"
                                 },
                                 {
-                                    "id": "pq0cp0dgmbsjch0x3dyf",
+                                    "id": "6fe5116o1quv9lcpu3jl",
                                     "title": "locator.innerText(tbody > tr:nth-child(1) > td.id > a)",
                                     "type": "step",
                                     "stepType": "pw:api",
-                                    "duration": 6,
+                                    "duration": 14,
                                     "location": "tests/redmine_testing.spec.js:90:61"
                                 },
                                 {
-                                    "id": "sx5pvn64l83lvlqyymkj",
+                                    "id": "kfyipuvsfxbjwuhoklja",
                                     "title": "locator.click(//li[@class=\"next page\"]/preceding-sibling::li[1])",
                                     "type": "step",
                                     "stepType": "pw:api",
-                                    "duration": 273,
+                                    "duration": 385,
                                     "location": "page-objects/Issues.page.js:16:38"
                                 },
                                 {
-                                    "id": "yg23gqmd2rtlb02xp8pb",
+                                    "id": "o92w6y9ft95576k3u8tt",
                                     "title": "expect.toBeVisible",
                                     "type": "step",
                                     "stepType": "expect",
-                                    "duration": 86,
+                                    "duration": 55,
                                     "location": "tests/redmine_testing.spec.js:93:43"
                                 },
                                 {
-                                    "id": "f3o0ezv1wo5kcaecqzg3",
+                                    "id": "nnuf7ichu7d93op1r8as",
                                     "title": "locator.innerText(tbody > tr:last-child > td.id > a)",
                                     "type": "step",
                                     "stepType": "pw:api",
-                                    "duration": 34,
+                                    "duration": 18,
                                     "location": "tests/redmine_testing.spec.js:95:59"
                                 },
                                 {
-                                    "id": "1jey3e71yihddpju55rk",
+                                    "id": "1zy2ql2ix85iyf09xse1",
                                     "title": "expect.toBeLessThan",
                                     "type": "step",
                                     "stepType": "expect",
@@ -1100,23 +1127,23 @@
                                     "location": "tests/redmine_testing.spec.js:97:21"
                                 },
                                 {
-                                    "id": "ivwo6oc4ti5k72m67tmc",
+                                    "id": "nlabazkpvpwj6ssh5wut",
                                     "title": "After Hooks",
                                     "type": "step",
                                     "stepType": "hook",
-                                    "duration": 27,
+                                    "duration": 8,
                                     "location": "",
                                     "subs": [
                                         {
-                                            "id": "v2bjebntr7u58dklixs0",
+                                            "id": "f9zenf8zrvb7zywphdsq",
                                             "title": "fixture: page",
                                             "type": "step",
                                             "stepType": "fixture",
-                                            "duration": 1,
+                                            "duration": 0,
                                             "location": ""
                                         },
                                         {
-                                            "id": "0yvuru6azl27mlfl6oqo",
+                                            "id": "iylfhj3j833c4wuyhad7",
                                             "title": "fixture: context",
                                             "type": "step",
                                             "stepType": "fixture",
@@ -1137,110 +1164,92 @@
                             "expectedStatus": "passed",
                             "location": "tests/redmine_testing.spec.js:100:5",
                             "timestamps": [
-                                1736166650907,
-                                1736166658467
+                                1736166922725,
+                                1736166926776
                             ],
-                            "duration": 7560,
+                            "duration": 4051,
                             "tags": [],
                             "timeout": 30000,
                             "retry": 0,
                             "status": "passed",
-                            "stepNum": 50,
+                            "stepNum": 48,
                             "stepFailed": 0,
                             "stepSubs": true,
                             "subs": [
                                 {
-                                    "id": "wa7jro2x8lasj1c6l35c",
+                                    "id": "rj14tdgc1bekhbjig8ez",
                                     "title": "Before Hooks",
                                     "type": "step",
                                     "stepType": "hook",
-                                    "duration": 4957,
+                                    "duration": 2482,
                                     "location": "",
                                     "subs": [
                                         {
-                                            "id": "867jmjv8m3n8kvsb3kob",
+                                            "id": "lmoowtt2yum69u0maip2",
                                             "title": "beforeEach hook",
                                             "type": "step",
                                             "stepType": "hook",
-                                            "duration": 4954,
+                                            "duration": 2480,
                                             "location": "tests/redmine_testing.spec.js:13:6",
                                             "subs": [
                                                 {
-                                                    "id": "52gdril7vokwk2at1fcc",
-                                                    "title": "fixture: browser",
-                                                    "type": "step",
-                                                    "stepType": "fixture",
-                                                    "duration": 311,
-                                                    "location": "",
-                                                    "subs": [
-                                                        {
-                                                            "id": "1lgix470pd1jsscu0ysm",
-                                                            "title": "browserType.launch",
-                                                            "type": "step",
-                                                            "stepType": "pw:api",
-                                                            "duration": 299,
-                                                            "location": ""
-                                                        }
-                                                    ]
-                                                },
-                                                {
-                                                    "id": "t6mt25dsm2kb8uhzdn5y",
+                                                    "id": "al8sq6dlv03ehniobwue",
                                                     "title": "fixture: context",
                                                     "type": "step",
                                                     "stepType": "fixture",
-                                                    "duration": 18,
+                                                    "duration": 4,
                                                     "location": "",
                                                     "subs": [
                                                         {
-                                                            "id": "7rdg7xekvowj0q1jqypm",
+                                                            "id": "yianx7pfdnlqgj4ixlwg",
                                                             "title": "browser.newContext",
                                                             "type": "step",
                                                             "stepType": "pw:api",
-                                                            "duration": 11,
+                                                            "duration": 2,
                                                             "location": ""
                                                         }
                                                     ]
                                                 },
                                                 {
-                                                    "id": "ue2gsk2nj6mtudm88do8",
+                                                    "id": "vctcfubvv2wwy3l7itb4",
                                                     "title": "fixture: page",
                                                     "type": "step",
                                                     "stepType": "fixture",
-                                                    "duration": 465,
+                                                    "duration": 26,
                                                     "location": "",
                                                     "subs": [
                                                         {
-                                                            "id": "of5lrkmw34ekge5t9a57",
+                                                            "id": "88z0oplljplvnbttz7m8",
                                                             "title": "browserContext.newPage",
                                                             "type": "step",
                                                             "stepType": "pw:api",
-                                                            "duration": 460,
+                                                            "duration": 25,
                                                             "location": ""
                                                         }
                                                     ]
                                                 },
                                                 {
-                                                    "id": "n9uwepwuvsci94599373",
+                                                    "id": "9mof401695wi331c62uh",
                                                     "title": "page.goto(/)",
                                                     "type": "step",
                                                     "stepType": "pw:api",
-                                                    "duration": 3983,
+                                                    "duration": 2355,
                                                     "location": "tests/redmine_testing.spec.js:14:16"
                                                 },
                                                 {
-                                                    "id": "x7btazvz8q6re4lz3pwj",
+                                                    "id": "l7evhfgitn7t57tv5jez",
                                                     "title": "page.waitForLoadState",
                                                     "type": "step",
                                                     "stepType": "pw:api",
-                                                    "duration": 1,
+                                                    "duration": 0,
                                                     "location": "tests/redmine_testing.spec.js:15:16"
                                                 },
                                                 {
-                                                    "id": "m3b0ydvbkwvmnrjsg7ce",
+                                                    "id": "oh8nzstknw7ou3b4knhu",
                                                     "title": "expect.toHaveTitle",
                                                     "type": "step",
                                                     "stepType": "expect",
-                                                    "duration": 140,
+                                                    "duration": 88,
                                                     "location": "tests/redmine_testing.spec.js:16:24"
                                                 }
                                             ]
@@ -1248,232 +1257,232 @@
                                     ]
                                 },
                                 {
-                                    "id": "mu0ox81k15iw2ewnqh49",
+                                    "id": "1156kbpnme322a6c78ho",
                                     "title": "expect.toBeVisible",
                                     "type": "step",
                                     "stepType": "expect",
-                                    "duration": 28,
+                                    "duration": 10,
                                     "location": "page-objects/Main.page.js:14:52"
                                 },
                                 {
-                                    "id": "fmizh0ma1esx1ycp1qtk",
+                                    "id": "v8i7fre4dg52tt1uxbe0",
                                     "title": "locator.getByRole('link', { name: 'Search' }).click",
                                     "type": "step",
                                     "stepType": "pw:api",
-                                    "duration": 234,
+                                    "duration": 256,
                                     "location": "page-objects/Main.page.js:18:44"
                                 },
                                 {
-                                    "id": "5rh6sxkulmw0wa4b0sph",
+                                    "id": "6d9ojq7i4apff49rs8nq",
                                     "title": "expect.toHaveURL",
                                     "type": "step",
                                     "stepType": "expect",
-                                    "duration": 136,
+                                    "duration": 41,
                                     "location": "tests/redmine_testing.spec.js:105:24"
                                 },
                                 {
-                                    "id": "xl8wydkvn5j8ivnbmmby",
+                                    "id": "a0d6bu0rv670e4actjwq",
                                     "title": "expect.toBeVisible",
                                     "type": "step",
                                     "stepType": "expect",
-                                    "duration": 16,
+                                    "duration": 20,
                                     "location": "tests/redmine_testing.spec.js:108:43"
                                 },
                                 {
-                                    "id": "tnyf9y177s8gzwofzn58",
+                                    "id": "h8zy40ak1ex8uf51vyph",
                                     "title": "expect.toHaveText",
                                     "type": "step",
                                     "stepType": "expect",
-                                    "duration": 42,
+                                    "duration": 13,
                                     "location": "tests/redmine_testing.spec.js:109:43"
                                 },
                                 {
-                                    "id": "k5loggevwei8ityevb8d",
+                                    "id": "w8s02z5ly3jza6ri3m17",
                                     "title": "locator.fill(input#search-input)",
                                     "type": "step",
                                     "stepType": "pw:api",
-                                    "duration": 65,
+                                    "duration": 6,
                                     "location": "page-objects/Search.page.js:22:32"
                                 },
                                 {
-                                    "id": "x56lawg02dzdq441v2bn",
+                                    "id": "igh4ww3s5ot30rsp16zb",
                                     "title": "expect.toHaveValue",
                                     "type": "step",
                                     "stepType": "expect",
-                                    "duration": 7,
+                                    "duration": 1,
                                     "location": "tests/redmine_testing.spec.js:112:42"
                                 },
                                 {
-                                    "id": "8y8oc88airs2gscbzd5x",
+                                    "id": "stucq9hgscczejf23nlx",
                                     "title": "locator.count(input[type=\"checkbox\"])",
                                     "type": "step",
                                     "stepType": "pw:api",
-                                    "duration": 8,
+                                    "duration": 1,
                                     "location": "page-objects/Search.page.js:59:54"
                                 },
                                 {
-                                    "id": "nv27uehnb7g9hyn0y9ne",
+                                    "id": "gy171oegrj0lx6i3be7a",
                                     "title": "locator.setChecked(input[type=\"checkbox\"] >> nth=0)",
                                     "type": "step",
                                     "stepType": "pw:api",
-                                    "duration": 90,
+                                    "duration": 31,
                                     "location": "page-objects/Search.page.js:62:35"
                                 },
                                 {
-                                    "id": "db60d7559o9hcg2fxvic",
+                                    "id": "hxdnpfw179p1cu0tbovr",
                                     "title": "locator.setChecked(input[type=\"checkbox\"] >> nth=1)",
                                     "type": "step",
                                     "stepType": "pw:api",
-                                    "duration": 25,
+                                    "duration": 4,
                                     "location": "page-objects/Search.page.js:62:35"
                                 },
                                 {
-                                    "id": "5tqk1ycy5tb1s5xafk0q",
+                                    "id": "sreqlnysj5b70sozmuxd",
                                     "title": "locator.setChecked(input[type=\"checkbox\"] >> nth=2)",
                                     "type": "step",
                                     "stepType": "pw:api",
-                                    "duration": 105,
+                                    "duration": 26,
                                     "location": "page-objects/Search.page.js:62:35"
                                 },
                                 {
-                                    "id": "5b82odi1jl1mlks6t927",
+                                    "id": "710dg68j38oy3b41tepy",
                                     "title": "locator.setChecked(input[type=\"checkbox\"] >> nth=3)",
                                     "type": "step",
                                     "stepType": "pw:api",
-                                    "duration": 536,
+                                    "duration": 33,
                                     "location": "page-objects/Search.page.js:62:35"
                                 },
                                 {
-                                    "id": "v3nbsx7nlfbp23hchgx8",
+                                    "id": "c5i6sn1qff9rxwy8urho",
                                     "title": "locator.setChecked(input[type=\"checkbox\"] >> nth=4)",
                                     "type": "step",
                                     "stepType": "pw:api",
-                                    "duration": 188,
+                                    "duration": 32,
                                     "location": "page-objects/Search.page.js:62:35"
                                 },
                                 {
-                                    "id": "hs61y02l7riawzgjtzmu",
+                                    "id": "dlnm5e34f63yemvd5v0p",
                                     "title": "locator.setChecked(input[type=\"checkbox\"] >> nth=5)",
                                     "type": "step",
                                     "stepType": "pw:api",
-                                    "duration": 106,
+                                    "duration": 32,
                                     "location": "page-objects/Search.page.js:62:35"
                                 },
                                 {
-                                    "id": "bm6p8o799g13nwptmlgs",
+                                    "id": "tn2cmjo0kh40rbdcbgwk",
                                     "title": "locator.setChecked(input[type=\"checkbox\"] >> nth=6)",
                                     "type": "step",
                                     "stepType": "pw:api",
-                                    "duration": 100,
+                                    "duration": 32,
                                     "location": "page-objects/Search.page.js:62:35"
                                 },
                                 {
-                                    "id": "x6jkmfkgrkum23wblizp",
+                                    "id": "cxqqqpkspc7hhzsvy94a",
                                     "title": "locator.setChecked(input[type=\"checkbox\"] >> nth=7)",
                                     "type": "step",
                                     "stepType": "pw:api",
-                                    "duration": 47,
+                                    "duration": 32,
                                     "location": "page-objects/Search.page.js:62:35"
                                 },
                                 {
-                                    "id": "wiblhnigcy9eh8trgm36",
+                                    "id": "tekbzgvsxodrwvdrspj7",
                                     "title": "locator.setChecked(input[type=\"checkbox\"] >> nth=8)",
                                     "type": "step",
                                     "stepType": "pw:api",
-                                    "duration": 48,
+                                    "duration": 33,
                                     "location": "page-objects/Search.page.js:62:35"
                                 },
                                 {
-                                    "id": "sza17y4srp1j7pfu11hi",
+                                    "id": "v7vr7zixvmvgx1ngvj2q",
                                     "title": "locator.setChecked(input[type=\"checkbox\"] >> nth=9)",
                                     "type": "step",
                                     "stepType": "pw:api",
-                                    "duration": 50,
+                                    "duration": 33,
                                     "location": "page-objects/Search.page.js:62:35"
                                 },
                                 {
-                                    "id": "6cfeqfv6r1pfi2k1zhtb",
+                                    "id": "6whw5y1gl4vtqmbjjqdf",
                                     "title": "locator.setChecked(input[type=\"checkbox\"] >> nth=10)",
                                     "type": "step",
                                     "stepType": "pw:api",
-                                    "duration": 9,
+                                    "duration": 3,
                                     "location": "page-objects/Search.page.js:62:35"
                                 },
                                 {
-                                    "id": "y0vjcf14witgtulxdfyu",
+                                    "id": "faag5ni2yb87l9rl4dae",
                                     "title": "locator.count(label:has-text(\"Changesets\") input[type=\"checkbox\"])",
                                     "type": "step",
                                     "stepType": "pw:api",
-                                    "duration": 4,
+                                    "duration": 2,
                                     "location": "page-objects/Search.page.js:30:57"
                                 },
                                 {
-                                    "id": "6kpdh0dagyw9bzoqt9um",
+                                    "id": "g3uk5trrc4hybvu2e3rt",
                                     "title": "locator.setChecked(label:has-text(\"Changesets\") input[type=\"checkbox\"])",
                                     "type": "step",
                                     "stepType": "pw:api",
-                                    "duration": 54,
+                                    "duration": 86,
                                     "location": "page-objects/Search.page.js:35:35"
                                 },
                                 {
-                                    "id": "emzn53jpuw3yudv3w3w0",
+                                    "id": "isznz9mtbpyynk2ysx00",
                                     "title": "locator.count(label:has-text(\"Projects\") input[type=\"checkbox\"])",
                                     "type": "step",
                                     "stepType": "pw:api",
-                                    "duration": 4,
+                                    "duration": 8,
                                     "location": "page-objects/Search.page.js:30:57"
                                 },
                                 {
-                                    "id": "m1pu6evmk8o5pcxb4ad5",
+                                    "id": "f05316hquexnsyv9v7y5",
                                     "title": "locator.setChecked(label:has-text(\"Projects\") input[type=\"checkbox\"])",
                                     "type": "step",
                                     "stepType": "pw:api",
-                                    "duration": 90,
+                                    "duration": 156,
                                     "location": "page-objects/Search.page.js:35:35"
                                 },
                                 {
-                                    "id": "1otw6dgdi1twd77yk1v5",
+                                    "id": "dlpo3du99sxz2w3l273j",
                                     "title": "expect.toBeChecked",
                                     "type": "step",
                                     "stepType": "expect",
-                                    "duration": 25,
+                                    "duration": 17,
                                     "location": "tests/redmine_testing.spec.js:116:93",
                                     "count": 2
                                 },
                                 {
-                                    "id": "tevthn5z6yzmaht59zx6",
+                                    "id": "xv1a6utex8bddqatx3v1",
                                     "title": "locator.click(legend[onclick=\"toggleFieldset(this);\"])",
                                     "type": "step",
                                     "stepType": "pw:api",
-                                    "duration": 112,
+                                    "duration": 55,
                                     "location": "page-objects/Search.page.js:40:35"
                                 },
                                 {
-                                    "id": "xlw6j892nc77g8mgacxk",
+                                    "id": "pe02jc69gr6z5292zt3y",
                                     "title": "locator.waitFor(input#open_issues[type=\"checkbox\"])",
                                     "type": "step",
                                     "stepType": "pw:api",
-                                    "duration": 9,
+                                    "duration": 3,
                                     "location": "page-objects/Search.page.js:41:39"
                                 },
                                 {
-                                    "id": "nhjkympdqqfg6zcke7df",
+                                    "id": "smmjknd30f0ltk8td0t6",
                                     "title": "locator.setChecked(input#open_issues[type=\"checkbox\"])",
                                     "type": "step",
                                     "stepType": "pw:api",
-                                    "duration": 39,
+                                    "duration": 121,
                                     "location": "page-objects/Search.page.js:45:39"
                                 },
                                 {
-                                    "id": "v5ir2pw8sa2gekx43z6n",
+                                    "id": "nuqcn14wklvqlkaajmyx",
                                     "title": "locator.isChecked(input#open_issues[type=\"checkbox\"])",
                                     "type": "step",
                                     "stepType": "pw:api",
-                                    "duration": 4,
+                                    "duration": 9,
                                     "location": "tests/redmine_testing.spec.js:122:48"
                                 },
                                 {
-                                    "id": "1tnyfdg4qjd29r5sek31",
+                                    "id": "sxfq0e9mbunkr10ln1ju",
                                     "title": "expect.toBe",
                                     "type": "step",
                                     "stepType": "expect",
@@ -1481,63 +1490,63 @@
                                     "location": "tests/redmine_testing.spec.js:122:61"
                                 },
                                 {
-                                    "id": "zie7a98zsuqbox2xgc6e",
+                                    "id": "smnq7r1szdh88qo1bhkl",
                                     "title": "locator.waitFor(label:has-text(\"Search attachment filenames and descriptions\") input[type=\"radio\"])",
                                     "type": "step",
                                     "stepType": "pw:api",
-                                    "duration": 6,
+                                    "duration": 18,
                                     "location": "page-objects/Search.page.js:50:26"
                                 },
                                 {
-                                    "id": "ehq47ka84rnq9mpuvr86",
+                                    "id": "m9ex1aegyz0gs4u2y9as",
                                     "title": "locator.check(label:has-text(\"Search attachment filenames and descriptions\") input[type=\"radio\"])",
                                     "type": "step",
                                     "stepType": "pw:api",
-                                    "duration": 55,
+                                    "duration": 70,
                                     "location": "page-objects/Search.page.js:51:32"
                                 },
                                 {
-                                    "id": "0lbt1yioazxan7gs7hqm",
+                                    "id": "mx370c33uy3ronjvytwn",
                                     "title": "expect.toBeChecked",
                                     "type": "step",
                                     "stepType": "expect",
-                                    "duration": 4,
+                                    "duration": 3,
                                     "location": "tests/redmine_testing.spec.js:125:90"
                                 },
                                 {
-                                    "id": "o295s42n002czgif90nw",
+                                    "id": "oy1qn5d3sdf77ngwxhkt",
                                     "title": "locator.click(input[type=\"submit\"])",
                                     "type": "step",
                                     "stepType": "pw:api",
-                                    "duration": 176,
+                                    "duration": 291,
                                     "location": "page-objects/Search.page.js:55:36"
                                 },
                                 {
-                                    "id": "ifhwdy5c5fp9534nj3y0",
+                                    "id": "ac47jma6hst9s3p8khou",
                                     "title": "expect.toHaveURL",
                                     "type": "step",
                                     "stepType": "expect",
-                                    "duration": 43,
+                                    "duration": 49,
                                     "location": "tests/redmine_testing.spec.js:129:24"
                                 },
                                 {
-                                    "id": "a1hbqs2u90f1zkkt57my",
+                                    "id": "k5nu9qtjijuzajiq9833",
                                     "title": "expect.toHaveText",
                                     "type": "step",
                                     "stepType": "expect",
-                                    "duration": 35,
+                                    "duration": 14,
                                     "location": "tests/redmine_testing.spec.js:130:48"
                                 },
                                 {
-                                    "id": "g4r2czykcdmejmsegv2c",
+                                    "id": "f8yina8nk8dvyu0emkx4",
                                     "title": "After Hooks",
                                     "type": "step",
                                     "stepType": "hook",
-                                    "duration": 15,
+                                    "duration": 9,
                                     "location": "",
                                     "subs": [
                                         {
-                                            "id": "krmwvnqlkotxjzrsyi49",
+                                            "id": "zplt3uf34fwridoj93ii",
                                             "title": "fixture: page",
                                             "type": "step",
                                             "stepType": "fixture",
@@ -1545,7 +1554,7 @@
                                             "location": ""
                                         },
                                         {
-                                            "id": "l037dgtmc5ije5c1df8e",
+                                            "id": "a54f8n4p7vd5thsz3fdv",
                                             "title": "fixture: context",
                                             "type": "step",
                                             "stepType": "fixture",
@@ -1566,110 +1575,92 @@
                             "expectedStatus": "passed",
                             "location": "tests/redmine_testing.spec.js:133:5",
                             "timestamps": [
-                                1736166650858,
-                                1736166658017
+                                1736166926777,
+                                1736166930140
                             ],
-                            "duration": 7159,
+                            "duration": 3363,
                             "tags": [],
                             "timeout": 30000,
                             "retry": 0,
                             "status": "passed",
-                            "stepNum": 29,
+                            "stepNum": 27,
                             "stepFailed": 0,
                             "stepSubs": true,
                             "subs": [
                                 {
-                                    "id": "9dsx4k9bk633c7p4sk3u",
+                                    "id": "oqbls61cb1ullk2o5qny",
                                     "title": "Before Hooks",
                                     "type": "step",
                                     "stepType": "hook",
-                                    "duration": 5955,
+                                    "duration": 2449,
                                     "location": "",
                                     "subs": [
                                         {
-                                            "id": "r0galyy35apxovh3pivt",
+                                            "id": "zyc6vcwmdpg4hn223xch",
                                             "title": "beforeEach hook",
                                             "type": "step",
                                             "stepType": "hook",
-                                            "duration": 5953,
+                                            "duration": 2447,
                                             "location": "tests/redmine_testing.spec.js:13:6",
                                             "subs": [
                                                 {
-                                                    "id": "tgao8wr2ekk0h04dx3fw",
-                                                    "title": "fixture: browser",
-                                                    "type": "step",
-                                                    "stepType": "fixture",
-                                                    "duration": 287,
-                                                    "location": "",
-                                                    "subs": [
-                                                        {
-                                                            "id": "5yguc279fmcx48rwbopo",
-                                                            "title": "browserType.launch",
-                                                            "type": "step",
-                                                            "stepType": "pw:api",
-                                                            "duration": 281,
-                                                            "location": ""
-                                                        }
-                                                    ]
-                                                },
-                                                {
-                                                    "id": "rngmgw9imfsmv2afqiiz",
+                                                    "id": "9c6oka5px6335wu8lg0x",
                                                     "title": "fixture: context",
                                                     "type": "step",
                                                     "stepType": "fixture",
-                                                    "duration": 31,
+                                                    "duration": 3,
                                                     "location": "",
                                                     "subs": [
                                                         {
-                                                            "id": "0rtp46zwufw3awsuc3rl",
+                                                            "id": "1ebtvfzos7ewayandmsh",
                                                             "title": "browser.newContext",
                                                             "type": "step",
                                                             "stepType": "pw:api",
-                                                            "duration": 25,
+                                                            "duration": 2,
                                                             "location": ""
                                                         }
                                                     ]
                                                 },
                                                 {
-                                                    "id": "tl6v915p1m581lpcpjvh",
+                                                    "id": "fqz7kjbgosg8kgokgsjb",
                                                     "title": "fixture: page",
                                                     "type": "step",
                                                     "stepType": "fixture",
-                                                    "duration": 533,
+                                                    "duration": 24,
                                                     "location": "",
                                                     "subs": [
                                                         {
-                                                            "id": "yhkod44k0qnzpt9i8epr",
+                                                            "id": "vs6bzahk7csmosehq4oj",
                                                             "title": "browserContext.newPage",
                                                             "type": "step",
                                                             "stepType": "pw:api",
-                                                            "duration": 530,
+                                                            "duration": 23,
                                                             "location": ""
                                                         }
                                                     ]
                                                 },
                                                 {
-                                                    "id": "pky20wjonur6irzwmkxy",
+                                                    "id": "ojbi2qwx6w83b19lnfsf",
                                                     "title": "page.goto(/)",
                                                     "type": "step",
                                                     "stepType": "pw:api",
-                                                    "duration": 4928,
+                                                    "duration": 2336,
                                                     "location": "tests/redmine_testing.spec.js:14:16"
                                                 },
                                                 {
-                                                    "id": "bqbd6s78l3kkwazuzyhs",
+                                                    "id": "upcrr1xjg2fobqvj1lft",
                                                     "title": "page.waitForLoadState",
                                                     "type": "step",
                                                     "stepType": "pw:api",
-                                                    "duration": 2,
+                                                    "duration": 1,
                                                     "location": "tests/redmine_testing.spec.js:15:16"
                                                 },
                                                 {
-                                                    "id": "dkqsuallxxpend6gswa2",
+                                                    "id": "n2bjnepinshiebzww4qj",
                                                     "title": "expect.toHaveTitle",
                                                     "type": "step",
                                                     "stepType": "expect",
-                                                    "duration": 135,
+                                                    "duration": 77,
                                                     "location": "tests/redmine_testing.spec.js:16:24"
                                                 }
                                             ]
@@ -1677,95 +1668,95 @@
                                     ]
                                 },
                                 {
-                                    "id": "xee0lzc6isytv2nhadzp",
+                                    "id": "icb3m33day4kacyx1g6c",
                                     "title": "expect.toBeVisible",
-                                    "type": "step",
-                                    "stepType": "expect",
-                                    "duration": 28,
-                                    "location": "page-objects/Main.page.js:14:52"
-                                },
-                                {
-                                    "id": "jbcs2a3jo5nalygqekzs",
-                                    "title": "locator.getByRole('link', { name: 'FAQ' }).click",
-                                    "type": "step",
-                                    "stepType": "pw:api",
-                                    "duration": 326,
-                                    "location": "page-objects/Main.page.js:18:44"
-                                },
-                                {
-                                    "id": "1ft8stcrake33o54ipw4",
-                                    "title": "expect.toBeVisible",
-                                    "type": "step",
-                                    "stepType": "expect",
-                                    "duration": 151,
-                                    "location": "tests/redmine_testing.spec.js:139:34"
-                                },
-                                {
-                                    "id": "ogle67ybv8f3g0giexs2",
-                                    "title": "expect.toHaveText",
-                                    "type": "step",
-                                    "stepType": "expect",
-                                    "duration": 67,
-                                    "location": "tests/redmine_testing.spec.js:140:34"
-                                },
-                                {
-                                    "id": "hm7x4noi8qy375dh3tva",
-                                    "title": "locator.click(ul[class=\"toc\"] a[href=\"#Installing-and-Running-Redmine\"])",
-                                    "type": "step",
-                                    "stepType": "pw:api",
-                                    "duration": 117,
-                                    "location": "page-objects/Faq.page.js:13:43"
-                                },
-                                {
-                                    "id": "6xflg3dsyjmijhd9supl",
-                                    "title": "expect.toBeInViewport",
-                                    "type": "step",
-                                    "stepType": "expect",
-                                    "duration": 17,
-                                    "location": "tests/redmine_testing.spec.js:143:52"
-                                },
-                                {
-                                    "id": "6t3e4fyo4vpu3jl6doj8",
-                                    "title": "expect.toHaveText",
                                     "type": "step",
                                     "stepType": "expect",
                                     "duration": 10,
+                                    "location": "page-objects/Main.page.js:14:52"
+                                },
+                                {
+                                    "id": "41qt72rxoiuwu7mfua9c",
+                                    "title": "locator.getByRole('link', { name: 'FAQ' }).click",
+                                    "type": "step",
+                                    "stepType": "pw:api",
+                                    "duration": 287,
+                                    "location": "page-objects/Main.page.js:18:44"
+                                },
+                                {
+                                    "id": "9f9pkq4iouvo0ja63raj",
+                                    "title": "expect.toBeVisible",
+                                    "type": "step",
+                                    "stepType": "expect",
+                                    "duration": 52,
+                                    "location": "tests/redmine_testing.spec.js:139:34"
+                                },
+                                {
+                                    "id": "imot6pra7wocuvrrl804",
+                                    "title": "expect.toHaveText",
+                                    "type": "step",
+                                    "stepType": "expect",
+                                    "duration": 27,
+                                    "location": "tests/redmine_testing.spec.js:140:34"
+                                },
+                                {
+                                    "id": "ln2wsqvhb0m4b60vhm7r",
+                                    "title": "locator.click(ul[class=\"toc\"] a[href=\"#Installing-and-Running-Redmine\"])",
+                                    "type": "step",
+                                    "stepType": "pw:api",
+                                    "duration": 52,
+                                    "location": "page-objects/Faq.page.js:13:43"
+                                },
+                                {
+                                    "id": "3dtkm07o1rfguwkj5q9x",
+                                    "title": "expect.toBeInViewport",
+                                    "type": "step",
+                                    "stepType": "expect",
+                                    "duration": 11,
+                                    "location": "tests/redmine_testing.spec.js:143:52"
+                                },
+                                {
+                                    "id": "7d1v3sh344aiyrjno0o5",
+                                    "title": "expect.toHaveText",
+                                    "type": "step",
+                                    "stepType": "expect",
+                                    "duration": 3,
                                     "location": "tests/redmine_testing.spec.js:144:52"
                                 },
                                 {
-                                    "id": "zpbcxaaus0vb0r4i8x43",
+                                    "id": "fmzof4e4ksu2fgabf9fa",
                                     "title": "expect.toBeInViewport",
                                     "type": "step",
                                     "stepType": "expect",
-                                    "duration": 13,
+                                    "duration": 11,
                                     "location": "tests/redmine_testing.spec.js:146:36"
                                 },
                                 {
-                                    "id": "rz14txpxjqx1esnuyktz",
+                                    "id": "bj6f50i1edo7r4ya69vd",
                                     "title": "expect.toHaveText",
                                     "type": "step",
                                     "stepType": "expect",
-                                    "duration": 9,
+                                    "duration": 4,
                                     "location": "tests/redmine_testing.spec.js:147:36"
                                 },
                                 {
-                                    "id": "6rppvkq9cjxqgzltojkw",
+                                    "id": "8hkofqduwxpb73v18bp6",
                                     "title": "expect.toBeInViewport",
                                     "type": "step",
                                     "stepType": "expect",
-                                    "duration": 20,
+                                    "duration": 14,
                                     "location": "tests/redmine_testing.spec.js:149:34"
                                 },
                                 {
-                                    "id": "c04lqnuz6gutvx9t2nf9",
+                                    "id": "79hw2srjx1jq1ug8disq",
                                     "title": "expect.toHaveText",
                                     "type": "step",
                                     "stepType": "expect",
-                                    "duration": 7,
+                                    "duration": 3,
                                     "location": "tests/redmine_testing.spec.js:150:34"
                                 },
                                 {
-                                    "id": "1n4tq9ejcuybbsuox2hr",
+                                    "id": "9q56ydmqczjbrv20bwcw",
                                     "title": "expect.toBeVisible",
                                     "type": "step",
                                     "stepType": "expect",
@@ -1773,15 +1764,15 @@
                                     "location": "tests/redmine_testing.spec.js:151:44"
                                 },
                                 {
-                                    "id": "2ijzr94aqmezn1ag90ho",
+                                    "id": "7symn8wchahfcz9kxs31",
                                     "title": "locator.click(//h3[a[@href=\"#Does-Redmine-work-with-Rails-2xx\"]]/following-sibling::p[1]/a)",
                                     "type": "step",
                                     "stepType": "pw:api",
-                                    "duration": 181,
+                                    "duration": 274,
                                     "location": "page-objects/Faq.page.js:17:37"
                                 },
                                 {
-                                    "id": "51h1sjbndi8hpvypdbx6",
+                                    "id": "eld5t3fhx2p5i9du3l37",
                                     "title": "expect.toHaveURL",
                                     "type": "step",
                                     "stepType": "expect",
@@ -1789,23 +1780,23 @@
                                     "location": "tests/redmine_testing.spec.js:155:24"
                                 },
                                 {
-                                    "id": "jwfndefgxudyb6s80bi7",
+                                    "id": "f038gbu2b56l7t9ws1ye",
                                     "title": "expect.toHaveText",
                                     "type": "step",
                                     "stepType": "expect",
-                                    "duration": 47,
+                                    "duration": 18,
                                     "location": "tests/redmine_testing.spec.js:158:41"
                                 },
                                 {
-                                    "id": "opevmfujc1umvqmb7f1y",
+                                    "id": "xwolhakom8qkojfws59g",
                                     "title": "After Hooks",
                                     "type": "step",
                                     "stepType": "hook",
-                                    "duration": 34,
+                                    "duration": 7,
                                     "location": "",
                                     "subs": [
                                         {
-                                            "id": "oel1i38ykqziurak8xni",
+                                            "id": "9pic7viee1hmfr0jmwhl",
                                             "title": "fixture: page",
                                             "type": "step",
                                             "stepType": "fixture",
@@ -1813,7 +1804,7 @@
                                             "location": ""
                                         },
                                         {
-                                            "id": "xsm6ru5618dry8lyhxal",
+                                            "id": "itk634gky3jq23f2pgn2",
                                             "title": "fixture: context",
                                             "type": "step",
                                             "stepType": "fixture",
@@ -1889,7 +1880,7 @@
         },
         "steps": {
             "name": "Steps",
-            "value": 173,
+            "value": 165,
             "id": "steps"
         },
         "suites": {
